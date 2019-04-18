@@ -43,6 +43,11 @@ GitHub使用技巧，个人习惯。
 * [Cerebro](https://github.com/KELiON/cerebro/releases) 一个跨平台的桌面快捷使用工具,可以在windows下使用的工具,(自行体会)
 * [PanDownload](https://pandownload.com/) 百度云（自行体会）
 * [Knowte](https://www.digimezzo.com/content/software/knowte/) 本地笔记本
+* [ccleaner](https://www.ccleaner.com/ccleaner/download/standard) 最好用的pc清理工具
+'''
+  用户名：任意
+  密钥：C2YW-XZT7-A4SE-UD89-YZPC
+'''
 
 
 # 开发篇
