@@ -30,6 +30,6 @@ GitHub使用技巧，个人习惯。
 ### 奇淫巧技
 #### VPN
 * [Shadowsocks](https://portal.shadowsocks.ch/) 云加速器（100￥/年）
-* [vpngate](https://www.vpngate.net/) 需要梯子才能访问（不稳定**免费）
+* [vpngate](https://www.vpngate.net/) 需要梯子才能访问（不稳定*免费）
 
 
