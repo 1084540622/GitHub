@@ -7,9 +7,19 @@ GitHub使用技巧，个人习惯。
 
 *** 
 # Chrome篇
+### Chrome插件篇
+* Chrono下载管理器是Chrome浏览器下第一款(也是唯一一款)功能全面的下载管理工具
+
+
 
 ***
 # Python篇
 
+
+
+
 ***
 # vscode篇
+
+
+
