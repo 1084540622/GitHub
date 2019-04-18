@@ -6,7 +6,7 @@ GitHub使用技巧，个人习惯。
 * 下载安装扩展插件之后需要用到Github大神写的一段代码，[github-hans](https://github.com/52cik/github-hans)
 ### 个人收藏
 * [hello github](https://www.hellogithub.com/) 分享 GitHub 上有趣、入门级的开源项目的网站
-
+* [写个程序员的一本书](https://github.com/ahangchen/How-to-Be-A-Programmer-CN) 
 
 
 *** 
@@ -27,10 +27,12 @@ GitHub使用技巧，个人习惯。
 
 ***
 # vscode篇
-
-
-
-# 工具篇
+### 插件篇
+* GitLens 提交,拉取,回退等功能的集成插件
+* Chinese Language Pack 中文汉化插件
+* LeetCode 挑战编程-插件
+* Material Theme 主题插件 （Ocean）
+* Material Icon Theme 文件图标主题插件
 
 
 ### 奇淫巧技
@@ -40,6 +42,21 @@ GitHub使用技巧，个人习惯。
 #### 工具
 * [Cerebro](https://github.com/KELiON/cerebro/releases) 一个跨平台的桌面快捷使用工具,可以在windows下使用的工具,(自行体会)
 * [PanDownload](https://pandownload.com/) 百度云（自行体会）
+* [Knowte](https://www.digimezzo.com/content/software/knowte/) 本地笔记本
+
+
+# 开发篇
+
+### 前端
+* [Amaze UI](http://amazeui.org/) 一群大雕萌妹做的好看的UI框架
+* [Bootstrap](http://www.bootcss.com/) 简洁、直观、强悍的前端开发框架
+
+### 后端
+
+### 综合
+* [在线工具](https://tool.lu/) 程序员的工具
+
+
 
 
 
