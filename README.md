@@ -7,6 +7,7 @@ GitHub使用技巧，个人习惯。
 ### 个人收藏
 * [hello github](https://www.hellogithub.com/) 分享 GitHub 上有趣、入门级的开源项目的网站
 * [写个程序员的一本书](https://github.com/ahangchen/How-to-Be-A-Programmer-CN) 
+* [Windows 绝赞应用](https://github.com/AmazingApps/Amazing-Windows-Apps/blob/master/zh-CN/README.md) 
 
 
 *** 
