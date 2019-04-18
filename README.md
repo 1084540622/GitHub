@@ -44,7 +44,7 @@ GitHub使用技巧，个人习惯。
 * [PanDownload](https://pandownload.com/) 百度云（自行体会）
 * [Knowte](https://www.digimezzo.com/content/software/knowte/) 本地笔记本
 * [ccleaner](https://www.ccleaner.com/ccleaner/download/standard) 最好用的pc清理工具
-  ' 用户名：任意 密钥：C2YW-XZT7-A4SE-UD89-YZPC '
+  断网激活：' 用户名：任意 密钥：C2YW-XZT7-A4SE-UD89-YZPC '
 
 
 # 开发篇
