@@ -46,7 +46,7 @@ GitHub使用技巧，个人习惯。
 * [Knowte](https://www.digimezzo.com/content/software/knowte/) 本地笔记本
 * [ccleaner](https://www.ccleaner.com/ccleaner/download/standard) 最好用的pc清理工具
   断网激活：' 用户名：任意 密钥：C2YW-XZT7-A4SE-UD89-YZPC '
-
+* [yingdev](http://www.yingdev.com/projects/tickeys) 使自己更加骚气
 
 # 开发篇
 
