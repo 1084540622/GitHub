@@ -20,6 +20,9 @@ GitHub使用技巧，个人习惯。
 * GitHub Dark Theme 是一款改变GitHub主题的插件
 * [52crx](https://52crx.com/) 国内插件聚集地
 
+### 技巧篇
+* [chrome浏览器快捷搜索]()
+
 
 ***
 # Python篇
