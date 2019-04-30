@@ -21,7 +21,7 @@ GitHub使用技巧，个人习惯。
 * [52crx](https://52crx.com/) 国内插件聚集地
 
 ### 技巧篇
-* [chrome浏览器快捷搜索]()
+* [chrome浏览器快捷搜索](https://github.com/1084540622/GitHub/blob/master/Skills.md)
 
 
 ***
